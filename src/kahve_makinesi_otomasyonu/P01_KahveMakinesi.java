@@ -83,7 +83,7 @@ public class P01_KahveMakinesi {
                   Siparişlerimizi verdik. Son hali görmek istiyoruz.
                   konsola şunu yazdırın örnek :
 
-      Türk Kahvesi orta boy hazırdır. Afiyet olsun !!! (Türk kahvesi için String hangiKahveyi kullanın.
+      Türk Kahvesi orta boy hazırdır. Afiyet olsun ! (Türk kahvesi için String hangiKahveyi kullanın.
       orta boy için de String boyut ' u kullanın.)
      */
 
